@@ -30,3 +30,8 @@ was used to get the features contributing to the predictions of the models (whic
 
 These insights align with research linking sleep deprivation and hypertension, underscoring the complex relationship between high blood pressure and sleep disorders.
 
+
+# PowerBI Dashboard
+
+<img width="596" alt="Dashboard SS" src="https://github.com/user-attachments/assets/c030ebe3-157c-4286-8f34-aadbfc308081">
+
