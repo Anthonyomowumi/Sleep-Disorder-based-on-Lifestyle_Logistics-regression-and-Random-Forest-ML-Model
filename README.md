@@ -1,6 +1,7 @@
 # About the Dataset
-This Project is utilizing the Sleep Health and Lifestyle Dataset in Kaggle, A secondary Data. This is basically measuring the impart of someone's lifestyle on their health.
-The Dataset contains 14 columns in total (That is, 13 features and 1 classification columns with 3 labels/category/mulitclass - None, Sleep Aspnea and Insomnia). The dataset contains 374 rows in total excluding the data header row
+This Project is utilizing the Sleep Health and Lifestyle Dataset. This is basically measuring the impart of someone's lifestyle on their health.
+The Dataset contains 14 columns in total (That is, 13 features and 1 classification columns with 3 labels/category/mulitclass - None, Sleep Aspnea and Insomnia). 
+The dataset contains 374 rows in total excluding the data header row
 
 # Data Description
 The 13 features includes; Person Identifier (ID), Gender (Male/Female), Age (In years), Occupation(Profession of the Person), Sleep duration (In hours per day), Quality of Sleep (On a scale rating 1-10 with 1- no significance,
